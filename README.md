@@ -4,7 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IoT dev Junior
 --------------
 
-🌟 Développeur IoT Junior passionné par la création de solutions innovantes et connectées. J'ai eu l'opportunité de jouer avec une variété d'outils et de technologies, y compris : 🛠️ Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard 🛢️ Bases de données : PostgreSQL, MySQL 🌐 Plateformes de création de sites Web : WordPress, PrestaShop 📱 Matériel IoT : ESP32, MKR1000, BLE Sense 💻 Environnement de développement : Visual Studio Code (VSCode) 💼 Actuellement en quête de nouvelles opportunités dans le domaine de l'IoT pour mettre en pratique mes compétences en conception, développement et intégration de dispositifs connectés en utilisant ces outils et bien plus encore. 🚀 Mon parcours inclut la programmation embarquée, la conception de capteurs intelligents et l'analyse des données en temps réel pour résoudre des problèmes concrets. 💡 J'aime explorer de nouvelles technologies, résoudre des défis techniques et collaborer avec d'autres passionnés de l'IoT. Ensemble, nous pouvons créer un avenir plus connecté et efficace. 📚 N'hésitez pas à explorer mes projets ci-dessous pour en savoir plus sur mes compétences et réalisations dans le domaine de l'Internet des objets. Let's make the IoT world smarter together! 🌍
+🌟 Développeur IoT Junior passionné par la création de solutions innovantes et connectées. 
+J'ai eu l'opportunité de jouer avec une variété d'outils et de technologies, y compris : 
+
+🛠️ Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard 🛢️ Bases de données : PostgreSQL, MySQL 
+🌐 Plateformes de création de sites Web : WordPress, PrestaShop 
+📱 Matériel IoT : ESP32, MKR1000, BLE Sense 
+💻 Environnement de développement : Visual Studio Code (VSCode) 
+
+💼 Actuellement en quête de nouvelles opportunités dans le domaine de l'IoT pour mettre en pratique mes compétences en conception, développement et intégration de dispositifs connectés en utilisant ces outils et bien plus encore. 
+🚀 Mon parcours inclut la programmation embarquée, la conception de capteurs intelligents et l'analyse des données en temps réel pour résoudre des problèmes concrets. 
+💡 J'aime explorer de nouvelles technologies, résoudre des défis techniques et collaborer avec d'autres passionnés de l'IoT. Ensemble, nous pouvons créer un avenir plus connecté et efficace. 
+📚 N'hésitez pas à explorer mes projets ci-dessous pour en savoir plus sur mes compétences et réalisations dans le domaine de l'Internet des objets. 
+
+Let's make the IoT world smarter together! 🌍
 
 *   🌍  I'm based in Canada
 *   ✉️  You can contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
