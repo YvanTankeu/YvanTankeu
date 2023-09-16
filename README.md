@@ -6,7 +6,9 @@ IoT dev Junior
 
 \- Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard 🛠️ 
 - Bases de données : PostgreSQL, MySQL 🛢️
-- - Plateformes de création de sites Web : WordPress, PrestaShop 🌐 - Matériel IoT : ESP32, MKR1000, BLE Sense 📱 - Environnement de développement : Visual Studio Code (VSCode) 💻
+- Plateformes de création de sites Web : WordPress, PrestaShop 🌐
+- Matériel IoT : ESP32, MKR1000, BLE Sense 📱
+- Environnement de développement : Visual Studio Code (VSCode) 💻
 
 *   🌍  I'm based in Canada
 *   ✉️  You can contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
