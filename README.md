@@ -5,12 +5,11 @@
 
 ### Compétences
 
-🛠️ Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard
-🛢️ Bases de données : PostgreSQL, MySQL
-🌐 Plateformes de création de sites Web : WordPress, PrestaShop
-📱 Matériel IoT : ESP32, MKR1000, BLE Sense
-💻 Environnement de développement : Visual Studio Code (VSCode)
-
+- Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard 🛠️
+- Bases de données : PostgreSQL, MySQL 🛢️
+- Plateformes de création de sites Web : WordPress, PrestaShop 🌐
+- Matériel IoT : ESP32, MKR1000, BLE Sense 📱
+- Environnement de développement : Visual Studio Code (VSCode) 💻
 
 ### À propos
 
