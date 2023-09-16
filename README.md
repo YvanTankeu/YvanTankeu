@@ -3,10 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 IoT dev Junior
 --------------
+🌟 **Passionné par l'IoT, la création de solutions innovantes et connectées.**
+
+### Compétences
+--------------
 
 \- Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard 🛠️ 
- Bases de données : PostgreSQL, MySQL 🛢️
-Plateformes de création de sites Web : WordPress, PrestaShop 🌐
+- Bases de données : PostgreSQL, MySQL 🛢️
+- Plateformes de création de sites Web : WordPress, PrestaShop 🌐
 - Matériel IoT : ESP32, MKR1000, BLE Sense 📱
 - Environnement de développement : Visual Studio Code (VSCode) 💻
 
@@ -14,16 +18,6 @@ Plateformes de création de sites Web : WordPress, PrestaShop 🌐
 *   ✉️  You can contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
 *   🧠  I'm learning Zephyr RTOS, Dev Kit (STM32, Microchip MCU, Nordic) and How to read Datasheet
 *   🤝  I'm open to collaborating on All IoT project
-
-🌟 **Passionné par l'IoT, la création de solutions innovantes et connectées.**
-
-### Compétences
-
-- Outils IoT : Node-RED, Azure IoT Hub, ThingsBoard
-- Bases de données : PostgreSQL, MySQL
-- Plateformes de création de sites Web : WordPress, PrestaShop
-- Matériel IoT : ESP32, MKR1000, BLE Sense
-- Environnement de développement : Visual Studio Code (VSCode)
 
 ### À propos
 
