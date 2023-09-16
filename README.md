@@ -8,7 +8,7 @@ IoT dev Junior
 
 *   🌍  I'm based in Canada
 *   ✉️  You can contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
-*   🧠  I'm learning Zephyr RTOS, STM32, Microchip MCU, Datasheet
+*   🧠  I'm learning Zephyr RTOS, Dev Kit (STM32, Microchip MCU, Nordic) and How to read Datasheet
 *   🤝  I'm open to collaborating on All IoT project
 
 ### Skills 
