@@ -28,7 +28,6 @@ Actuellement à la recherche de nouvelles opportunités dans le domaine de l'IoT
 *   🧠  I'm learning Zephyr RTOS, Dev Kit (STM32, Microchip MCU, Nordic) and How to read Datasheet
 *   🤝  I'm open to collaborating on All IoT project
 
-
 ### Skills 
 --------------
 <p align="left">
