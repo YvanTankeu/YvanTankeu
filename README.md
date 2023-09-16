@@ -1,4 +1,4 @@
-# Yvan Tankeu
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Yvan Tankeu
 ## IoT dev Junior
 
 🌟 **Passionné par l'IoT, la création de solutions innovantes et connectées.**
@@ -23,8 +23,8 @@ Actuellement à la recherche de nouvelles opportunités dans le domaine de l'IoT
 
 - 🌍 Basé au Canada
 - ✉️ Contactez-moi sur [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
-- 🧠 J'apprends Zephyr RTOS, STM32, Microchip MCU, Datasheet
-- 🤝 Ouvert à la collaboration sur tous les projets IoT.
+- 🧠 J'apprends Zephyr RTOS, Nordic Dev Kit, STM32 Dev Kit, Microchip MCU, Datasheet
+- 🤝 Ouvert à la collaboration sur tous les projets IoT gratuitement.
 
 ### Réseaux Sociaux
 
