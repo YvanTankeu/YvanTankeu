@@ -14,11 +14,6 @@ IoT dev Junior
 - Matériel IoT : ESP32, MKR1000, BLE Sense 📱
 - Environnement de développement : Visual Studio Code (VSCode) 💻
 
-*   🌍  I'm based in Canada
-*   ✉️  You can contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
-*   🧠  I'm learning Zephyr RTOS, Dev Kit (STM32, Microchip MCU, Nordic) and How to read Datasheet
-*   🤝  I'm open to collaborating on All IoT project
-
 ### À propos
 
 Actuellement à la recherche de nouvelles opportunités dans le domaine de l'IoT pour mettre en pratique mes compétences en conception, développement et intégration de dispositifs connectés en utilisant ces outils et bien plus encore.
@@ -26,6 +21,11 @@ Actuellement à la recherche de nouvelles opportunités dans le domaine de l'IoT
 🚀 Mon parcours inclut la programmation embarquée, la conception de capteurs intelligents et l'analyse des données en temps réel pour résoudre des problèmes concrets.
 
 💡 J'aime explorer de nouvelles technologies, résoudre des défis techniques et collaborer avec d'autres passionnés de l'IoT. Ensemble, nous pouvons créer un avenir plus connecté et efficace.
+
+*   🌍  I'm based in Canada
+*   ✉️  You can contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
+*   🧠  I'm learning Zephyr RTOS, Dev Kit (STM32, Microchip MCU, Nordic) and How to read Datasheet
+*   🤝  I'm open to collaborating on All IoT project
 
 
 ### Skills 
