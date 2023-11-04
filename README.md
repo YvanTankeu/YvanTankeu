@@ -38,4 +38,3 @@ Actuellement à la recherche de nouvelles opportunités dans le domaine de l'IoT
 --------------
 - [Discord](https://discord.com/users/yvantankeu)
 - [LinkedIn](https://www.linkedin.com/in/yvan-tankeu-ab029a129/)
-- [RSS](https://f)
