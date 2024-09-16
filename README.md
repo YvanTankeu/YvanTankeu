@@ -55,8 +55,9 @@ Je suis actuellement certifié [**Microsoft Certified: Azure Administrator Assoc
 
 * 🌍 Based in Canada
 * ✉️ Contact me at [yvantankeu@yahoo.fr](mailto:yvantankeu@yahoo.fr)
-* 🧠 Currently learning Zephyr RTOS, Dev Kit (STM32, Microchip MCU, Nordic), and how to read datasheets
+* 🧠 Currently studying for the AZ-305 certification, focusing on advanced Azure architecture and deployment strategies
 * 🤝 Open to collaborating on all IoT projects
+
 
 ### Skills 
 --------------------
