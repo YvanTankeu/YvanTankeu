@@ -28,6 +28,17 @@ Compétences
 <img src="https://github.com/Ensono/azure-vector-icons/blob/master/renders/backup-service.png" alt="Backup" width="24"/> **Reprise d'Activité** :  **Azure Backup**,
 **Azure Site Recovery**
 
+Support Technique
+-----------
+
+- **Dépannage et Résolution de Problèmes** : Analyse et résolution des problèmes techniques, diagnostic des pannes matérielles et logicielles.
+- **Assistance Utilisateur** : Fournir un support technique aux utilisateurs finaux, gestion des tickets de support, assistance à distance.
+- **Gestion des Incidents** : Identification, gestion, et suivi des incidents, coordination avec les équipes pour des résolutions rapides.
+- **Configuration et Maintenance des Systèmes** : Installation et configuration des logiciels et des matériels, mise à jour et maintenance des systèmes informatiques.
+- **Sécurité Informatique** : Surveillance et mise en œuvre des politiques de sécurité, gestion des accès et des permissions, protection des données.
+- **Documentation Technique** : Création et mise à jour de la documentation technique, guides utilisateur, procédures de résolution de problèmes.
+- **Gestion de la Connaissance** : Utilisation et gestion des bases de connaissances, documentation des solutions aux problèmes récurrents.
+
 
 ### À propos
 --------------------
