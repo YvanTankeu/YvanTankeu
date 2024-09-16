@@ -1,4 +1,4 @@
-Microsoft Certified: Azure Administrator Associate | Junior IoT Dev
+Azure Administrator Associate | Junior IoT Dev
 ===================================================================================================================================
 
 
@@ -39,7 +39,7 @@ Je suis actuellement certifié [**Microsoft Certified: Azure Administrator Assoc
   - **Outils et technologies** : PowerShell, Azure CLI, Terraform, Ansible, Azure Resource Manager (ARM) templates, Bicep.
   - **Cloud** : Automatisation des déploiements avec Terraform et Ansible, gestion des infrastructures avec PowerShell et Bash.
 
-- **Bases de données** : Configuration et gestion de bases de données SQL sur Azure avec PostgreSQL et Azure SQL 🛢️
+- **Bases de données** : Configuration et gestion de bases de données SQL sur Azure avec PostgreSQL et Azure SQL 
   - **Gestion des données** : Administration des bases de données, configuration des sauvegardes et récupération des données, optimisation des performances.
 
 - **Plateformes de création de sites Web** : Développement et gestion de sites web 
@@ -48,7 +48,7 @@ Je suis actuellement certifié [**Microsoft Certified: Azure Administrator Assoc
 - **Matériel IoT** : Conception et intégration de dispositifs IoT avec ESP32, MKR1000, BLE Sense 📱
   - **Connectivité cloud** : Intégration des dispositifs IoT avec Azure IoT Hub, gestion des flux de données et des capteurs intelligents.
 
-- **Environnement de développement** : Utilisation de Visual Studio Code (VSCode) 💻
+- **Environnement de développement** : Utilisation de Visual Studio Code (VSCode) 
   - **Développement cloud** : Développement de solutions Azure et IoT, intégration des outils de développement pour une productivité maximale.
 
 💡 J'aime explorer de nouvelles technologies, résoudre des défis techniques complexes et collaborer avec des professionnels de l'IoT et du cloud pour créer des solutions innovantes.
